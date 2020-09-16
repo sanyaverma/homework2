@@ -1,6 +1,7 @@
 
 body {
     background-color:#1B1B1B;
+    font-family: "Lucida Grande", "sans-serif";
   }
 
 h1 {
@@ -29,11 +30,6 @@ p {
     color: #FFFFFF;
     font-family: "Lucida Grande";
     font-size: 24x;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 100px;
-    margin-left: 30px;
-    
     }
 
 img {
@@ -50,16 +46,19 @@ div {
 }
 
 #red {
+    height: 150px;
     background-color:#FF0000;
     text-align: right;
 }
 
 #blue {
+    height: 150px;
     background-color:#2004FF;
     text-align: left;
 }
 
 #yellow {
+    height: 150px;
     background-color:#FFED00;
     text-align: right; 
 
@@ -77,6 +76,7 @@ div {
 }
 
 #green {
+    height: 150px;
     background-color:#25D000;
     text-align: left;
 }
