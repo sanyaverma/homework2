@@ -14,7 +14,7 @@ h1 {
 
 h2 {
     color: #FFFFFF;
-    font-size: 30x;
+    font-size: 30px;
     text-shadow: 5px 5px 2px #808080;
     font-family: "Lucida Grande", "sans-serif";
     
@@ -23,7 +23,7 @@ h2 {
 p {
     color: #FFFFFF;
     font-family: "Lucida Grande";
-    font-size: 24x;
+    font-size: 24px;
     padding-top: 20px;
     }
 
@@ -41,20 +41,20 @@ div {
 }
 
 #red {
-    height: 150px;
-    background-color:#FF0000;
+    min-height: 150px;
+    background-color:red;
     text-align: right;
 }
 
 #blue {
-    height: 150px;
-    background-color:#1500FF;
+    min-height: 150px;
+    background-color: blue;
     text-align: left;
 }
 
 #yellow {
-    height: 150px;
-    background-color:#FFED00;
+    min-height: 150px;
+    background-color:yellow;
     text-align: right; 
 
 }
@@ -71,8 +71,8 @@ div {
 }
 
 #green {
-    height: 150px;
-    background-color:#008002;
+    min-height: 150px;
+    background-color: green;
     text-align: left;
 }
 
